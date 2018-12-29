@@ -8,5 +8,7 @@ If you have a better solution(s) or would like to collaborate,
 don't hesitate to reach me.
 
 ## resources
+[CS 161 course content](https://github.com/francisknight/CS161)
 
+[CS 161 CPPLab](https://github.com/francisknight/CPP-Tidbits-1)
 
