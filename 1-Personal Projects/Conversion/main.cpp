@@ -6,6 +6,7 @@
 #include <cmath>
 #include <algorithm>
 #include <string>
+#include "lib.h"
 
 using namespace std;
 
@@ -14,7 +15,7 @@ int main()
     // value types
     int hex, binary, decimal;
     string valueType;
-    cout << "Enter a string value type \n"
+    cout << "Enter a string of the valueType you have \n"
          << "hex, binary, or decimal: ";
     cin >> valueType;
     transform(valueType.begin(), valueType.end(), valueType.begin(), ::toupper);
@@ -35,6 +36,9 @@ int main()
     if(valueType == "DECIMAL") {
         cout << "Enter decimal value: ";
         cin >> decimal;
+        getBinaryValue(decimal);
+        getHex(decimal);
     }
 
 }
+
