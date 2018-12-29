@@ -17,4 +17,10 @@ void getBinaryValue(int value);
  * @param value to covert
  */
 void getHex(int value);
+
+/**
+ * @brief getDecimal convert indicated value to decimal value
+ * @param value to convert
+ */
+void getDecimal(int value);
 #endif // LIB_H
