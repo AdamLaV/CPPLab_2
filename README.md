@@ -1,5 +1,5 @@
 ### CPPLab
-My solution to CS162 weekly challenges (cpplab) + some personal projects
+My solution to CS162 weekly challenges (cpplab) + some personal projects.
 
 ## download and contribution 🎊
 
