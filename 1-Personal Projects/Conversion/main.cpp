@@ -30,6 +30,7 @@ int main()
     if(valueType == "BINARY") {
         cout << "Enter binary value: ";
         cin >> binary;
+        getDecimal(binary);
     }
 
     // decimal
@@ -41,4 +42,3 @@ int main()
     }
 
 }
-
