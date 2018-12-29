@@ -2,3 +2,5 @@
 My solution to CS162 weekly challenges + personal projects
 
 ##
+
+Absolutely! Feel free to fork, download or share my code.
