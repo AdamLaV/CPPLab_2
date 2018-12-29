@@ -40,3 +40,21 @@ void getHex(int value) {
     }
     cout << endl;
 }
+
+// getDecimal function
+void getDecimal(int value) {
+    cout << "Decimal: ";
+    int remainder, temp, decimal = 0, b = 1;
+    temp = value;
+    while (value > 0) {
+        remainder = temp % 10;
+        decimal = decimal + remainder * b;
+        b *= 2;
+        temp /= 10;
+
+        value--;
+    }
+
+    cout << decimal * 2 << endl;
+    getHex(decimal);
+}
