@@ -1,5 +1,5 @@
 /**
-  * @brief Conversion of Hex, Binary & Decimal
+  * @brief Conversion for Hex, Binary & Decimal
   * @author Francis
 */
 #include <iostream>
