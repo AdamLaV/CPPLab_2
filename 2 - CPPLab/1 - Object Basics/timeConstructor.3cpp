@@ -35,8 +35,8 @@ int main()
 //YOUR_CODE_BELOW
 
 Time::Time(int hour, int minute) {
-	this-> hour = hour;
-	this-> minute = minute;
+	this->hour = hour;
+	this->minute = minute;
 }
 
 
