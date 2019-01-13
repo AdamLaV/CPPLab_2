@@ -13,5 +13,5 @@ don't hesitate to reach me.
 [CS 161 CPPLab](https://github.com/francisknight/CPP-Tidbits-1)
 
 ## Week Outline
-#### Week 1 - Object basic
+#### Week 1 - Object basic 👉 [Code]()
 
