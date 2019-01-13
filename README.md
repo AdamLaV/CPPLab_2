@@ -10,3 +10,4 @@ don't hesitate to reach me.
 ## Outline
 #### Week 1 - Object basic  👉 [Code](https://github.com/francisknight/CPPLab/tree/master/2%20-%20CPPLab/1%20-%20Object%20Basics)
 
+### Week 2 - OO Thinking 👉 (Code)
