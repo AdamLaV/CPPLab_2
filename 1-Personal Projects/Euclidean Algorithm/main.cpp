@@ -15,7 +15,7 @@ void getGCD(int a, int b);
  * @brief computeReminder
  * @param remainderValue
  */
-void computeReminder(int largeValue, int remainderValue);
+void computeRemainder(int largeValue, int remainderValue);
 
 int main()
 {
@@ -34,20 +34,20 @@ void getGCD(int a, int b){
         while (a > b) {
             a -= b;
             remainder = a;
-            computeReminder(a, remainder);
+            computeRemainder(a, remainder);
         }
     }
     else {
         b -= a;
         remainder = b;
-        computeReminder(b, remainder);
+        computeRemainder(b, remainder);
     }
 
     //cout << remainder;
 }
 
-// computeReminder function
-void computeReminder(int largeValue, int remainderValue) {
+// computeRemainder function
+void computeRemainder (int largeValue, int remainderValue) {
     int gcf, temp = 0;
     while (lar) {
         temp = remainderValue;
