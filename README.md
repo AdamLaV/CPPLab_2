@@ -13,3 +13,6 @@ don't hesitate to reach me.
 #### Week 2 - OO Thinking 👉 [Code](https://github.com/francisknight/CPPLab/tree/master/2%20-%20CPPLab/2%20-%20OO%20Thinking)
 
 #### Week 3 - Aggregation 👉 [Code](https://github.com/francisknight/CPPLab/tree/master/2%20-%20CPPLab/3%20-%20Aggregation)
+
+#### Week 4 - Inheritance 👉 [Code](https://github.com/francisknight/CPPLab/tree/master/2%20-%20CPPLab/3%20-%20Aggregation)
+
