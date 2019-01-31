@@ -16,3 +16,5 @@ don't hesitate to reach me.
 
 #### Week 4 - Inheritance 👉 [Code](https://github.com/francisknight/CPPLab/tree/master/2%20-%20CPPLab/4%20-%20Inheritance)
 
+#### Week 5 - Operators 👉 coming soon..
+
