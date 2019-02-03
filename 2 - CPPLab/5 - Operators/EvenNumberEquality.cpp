@@ -21,8 +21,12 @@ private:
 //YOUR_CODE_BELOW
 
 bool EvenNumber::operator == (const EvenNumber &other)const{
-   if(getValue() == other.getValue()){return true;}
-   else{return false;}
+   if(getValue() == other.getValue()) {
+       return true;
+   }
+   else {
+       return false;
+   }
 }
 
 //YOUR_CODE_ABOVE
