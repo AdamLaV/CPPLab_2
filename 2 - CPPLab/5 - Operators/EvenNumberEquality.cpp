@@ -20,7 +20,7 @@ private:
 //Do not modify anything on or above the line below this
 //YOUR_CODE_BELOW
 
-bool EvenNumber::operator ==(const EvenNumber & other)const{
+bool EvenNumber::operator ==(const EvenNumber &other)const{
    if(getValue() ==other.getValue()){return true;}
    else{return false;}
 }
