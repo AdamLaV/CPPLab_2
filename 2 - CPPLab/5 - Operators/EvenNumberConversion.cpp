@@ -20,8 +20,8 @@ private:
 //Do not modify anything on or above the line below this
 //YOUR_CODE_BELOW
 
-EvenNumber EvenNumber::operator int() {
-	return EvenNumber;
+EvenNumber::operator int() {
+	return getValue();
 }
 
 //YOUR_CODE_ABOVE
