@@ -22,6 +22,8 @@ private:
 
 EvenNumber::operator int() {
 	return getValue();
+	//return value -- works
+	//return this->value -- works
 }
 
 //YOUR_CODE_ABOVE
