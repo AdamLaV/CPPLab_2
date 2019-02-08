@@ -58,3 +58,4 @@ void computeRemainder (int largeValue, int remainderValue) {
     gcf = remainderValue;
     cout << remainderValue;
 }
+
