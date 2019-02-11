@@ -1,0 +1,13 @@
+Questions List 
+
+1. Read the provided code for the Point class that represents a point on a standard Cartesian plane. Then read the provided code in main.
+Replace YOUR_CODE with code that will create a point named p1 at the location 0, 0.
+
+2. Read the provided code for the Point class that represents a point on a standard Cartesian plane. Then read the provided code in main.
+Replace YOUR_CODE with code that will read in two doubles from the console and create a point named p1 at the x and y coordinates given by the numbers.
+
+3. Read the provided code for the Point class that represents a point on a standard Cartesian plane. Then read the provided code in main.
+Replace YOUR_CODE with code that will move Point p1 10 units to the right and 3 units down and Point p2 2 units to the left and 5 units up.
+
+4. Read the provided code for the Point class that represents a point on a standard Cartesian plane. Then read the provided code in main.
+Replace YOUR_CODE with code that will create a point p2 that is 4 units to the right of p1 and 3 units below it.
