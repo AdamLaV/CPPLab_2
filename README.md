@@ -18,6 +18,6 @@ _My solutions to CS162 weekly challenges (cpplab) + [some personal projects.](ht
 
 ## download and contribution 🎊
 
-Absolutely! Feel free to fork, download or share my code.
-If you have a better solution(s) or would like to collaborate,
-don't hesitate to reach me.
+>Absolutely! Feel free to fork, download or share my code.
+>If you have a better solution(s) or would like to collaborate,
+>don't hesitate to reach me.
