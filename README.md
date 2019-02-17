@@ -20,3 +20,4 @@ don't hesitate to reach me.
 
 #### Week 6 - Memory Management 👉 [Code](https://github.com/francisknight/CPPLab_2/tree/master/2%20-%20CPPLab/6%20-%20Memory%20Management)
 
+#### Week 7 - Coming Soon...
