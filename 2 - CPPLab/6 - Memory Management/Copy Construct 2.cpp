@@ -14,7 +14,7 @@ public:
     }
 //Do not modify anything on or above the line below this
 //YOUR_CODE_BELOW
-
+	
 	B(B &obj) {
 		size = obj.size;
 		myArray = new int[size];
