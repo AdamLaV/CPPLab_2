@@ -24,6 +24,7 @@ don't hesitate to reach me.
 
 | Week #        | Topic           | Link  |
 | ------------- |:-------------:| -----:|
-| Week 1        | OO Thinking   | [Code](https://github.com/francisknight/CPPLab/tree/master/2%20-%20CPPLab/1%20-%20Object%20Basics) |
-| Week 2        | centered      |   $12 |
+| Week 1        | Object Basic  | [Code](https://github.com/francisknight/CPPLab/tree/master/2%20-%20CPPLab/1%20-%20Object%20Basics) |
+| Week 2        | OO Thinking   |   [Code](https://github.com/francisknight/CPPLab/tree/master/2%20-%20CPPLab/2%20-%20OO%20Thinking)
+ |
 | zebra stripes | are neat      |    $1 |
