@@ -2,7 +2,7 @@ _My solutions to CS162 weekly challenges (cpplab) + [some personal projects.](ht
 
 
 ### **outline**
-- [x] #### Week 1 - Object Basic  👉 [Code](https://github.com/francisknight/CPPLab/tree/master/2%20-%20CPPLab/1%20-%20Object%20Basics)
+### - [x] #### Week 1 - Object Basic  👉 [Code](https://github.com/francisknight/CPPLab/tree/master/2%20-%20CPPLab/1%20-%20Object%20Basics)
 
 #### Week 2 - OO Thinking 👉 [Code](https://github.com/francisknight/CPPLab/tree/master/2%20-%20CPPLab/2%20-%20OO%20Thinking)
 
