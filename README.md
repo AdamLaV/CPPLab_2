@@ -1,7 +1,7 @@
 _My solutions to CS162 weekly challenges (cpplab) + [some personal projects.](https://github.com/francisknight/CPPLab/tree/master/1-Personal%20Projects)_
 
 
-### **Outline**
+### **outline**
 #### Week 1 - Object Basic  👉 [Code](https://github.com/francisknight/CPPLab/tree/master/2%20-%20CPPLab/1%20-%20Object%20Basics)
 
 #### Week 2 - OO Thinking 👉 [Code](https://github.com/francisknight/CPPLab/tree/master/2%20-%20CPPLab/2%20-%20OO%20Thinking)
