@@ -21,3 +21,9 @@ don't hesitate to reach me.
 #### Week 6 - Memory Management 👉 [Code](https://github.com/francisknight/CPPLab_2/tree/master/2%20-%20CPPLab/6%20-%20Memory%20Management)
 
 #### Week 7 - Coming Soon...
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
