@@ -22,7 +22,7 @@ don't hesitate to reach me.
 
 #### Week 7 - Coming Soon...
 
-| Week #        | Topic           | Cool  |
+| Week #        | Topic           | Link  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
