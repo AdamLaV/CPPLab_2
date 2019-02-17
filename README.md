@@ -24,6 +24,6 @@ don't hesitate to reach me.
 
 | Week #        | Topic           | Link  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| Week 1        | OO Thinking   | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
