@@ -1,11 +1,6 @@
 ### CPPLab
 My solutions to CS162 weekly challenges (cpplab) + [some personal projects.](https://github.com/francisknight/CPPLab/tree/master/1-Personal%20Projects)
 
-## download and contribution 🎊
-
-Absolutely! Feel free to fork, download or share my code.
-If you have a better solution(s) or would like to collaborate,
-don't hesitate to reach me.
 
 ### Outline
 #### Week 1 - Object Basic  👉 [Code](https://github.com/francisknight/CPPLab/tree/master/2%20-%20CPPLab/1%20-%20Object%20Basics)
@@ -21,3 +16,9 @@ don't hesitate to reach me.
 #### Week 6 - Memory Management 👉 [Code](https://github.com/francisknight/CPPLab_2/tree/master/2%20-%20CPPLab/6%20-%20Memory%20Management)
 
 #### Week 7 - Coming Soon...
+
+## download and contribution 🎊
+
+Absolutely! Feel free to fork, download or share my code.
+If you have a better solution(s) or would like to collaborate,
+don't hesitate to reach me.
