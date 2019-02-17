@@ -18,5 +18,5 @@ don't hesitate to reach me.
 
 #### Week 5 - Operators & Exceptions 👉 [Code](https://github.com/francisknight/CPPLab/tree/master/2%20-%20CPPLab/5%20-%20Operators)
 
-#### Week 6 - Memory Management 👉 [Coming Soon...](https://github.com/francisknight/CPPLab/blob/master/README#L4.md)
+#### Week 6 - Memory Management 👉 [Coming Soon...](https://github.com/francisknight/CPPLab_2/tree/master/2%20-%20CPPLab/6%20-%20Memory%20Management)
 
