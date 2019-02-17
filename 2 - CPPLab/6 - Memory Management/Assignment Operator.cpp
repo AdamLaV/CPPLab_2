@@ -31,16 +31,12 @@ public: //variables public for simplicity of test code
 //YOUR_CODE_BELOW
 
 B& B::operator=(const B& b){
-    if (this != &b)   // if the object passed in it is not already this one then copy
-    {  
-
-        // delete the existing myArray
-        delete [] myArray;
-
-        size = b.size;  // copy size
-        myArray = new int[b.size];  // create new array
+    if (this != &b)  {  
+       delete [] myArray;
+        size = b.size; 
+        myArray = new int[b.size];  
         for (int i = 0; i < size; i++)
-            myArray[i] = b.myArray[i];  // copy myArray of b to this object
+            myArray[i] = b.myArray[i]; 
     }
 
     return *this;
