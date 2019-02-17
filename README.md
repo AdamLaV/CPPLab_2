@@ -21,10 +21,3 @@ don't hesitate to reach me.
 #### Week 6 - Memory Management 👉 [Code](https://github.com/francisknight/CPPLab_2/tree/master/2%20-%20CPPLab/6%20-%20Memory%20Management)
 
 #### Week 7 - Coming Soon...
-
-| Week #        | Topic           | Link  |
-| ------------- |:-------------:| -----:|
-| Week 1        | Object Basic  | [Code](https://github.com/francisknight/CPPLab/tree/master/2%20-%20CPPLab/1%20-%20Object%20Basics) |
-| Week 2        | OO Thinking   |   [Code](https://github.com/francisknight/CPPLab/tree/master/2%20-%20CPPLab/2%20-%20OO%20Thinking)
- |
-| zebra stripes | are neat      |    $1 |
