@@ -1,4 +1,4 @@
-#### _My solutions to CS162 weekly challenges (cpplab) + [some personal projects.](https://github.com/francisknight/CPPLab/tree/master/1-Personal%20Projects)_
+#### My solutions to CS162 weekly challenges (cpplab) + [some personal projects.](https://github.com/francisknight/CPPLab/tree/master/1-Personal%20Projects)
 
 
 ### **outline**
