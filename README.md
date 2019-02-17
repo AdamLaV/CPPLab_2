@@ -1,5 +1,5 @@
 ### CPPLab
-My solutions to CS162 weekly challenges (cpplab) + [some personal projects.](https://github.com/francisknight/CPPLab/tree/master/1-Personal%20Projects)
+_My solutions to CS162 weekly challenges (cpplab) + [some personal projects.](https://github.com/francisknight/CPPLab/tree/master/1-Personal%20Projects)_
 
 
 ### Outline
