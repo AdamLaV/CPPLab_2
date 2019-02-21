@@ -50,10 +50,9 @@
  48  }
  49  
  50  template<typename T>
- 51  int Stack<T>::getSize() const
- 52  {
- 53    return size;
- 54  }
- 55  
- 56  #endif
+  int Stack<T>::getSize() const
+  {
+    return size;
+   }  
+   #endif
 
