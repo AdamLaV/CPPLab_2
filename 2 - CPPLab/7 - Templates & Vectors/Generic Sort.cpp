@@ -6,19 +6,28 @@ using namespace std;
 //Do not modify anything on or above the line below this
 //YOUR_CODE_BELOW
 
-    template<typename T>
-	int countInList(T list[], int listSize, T value) {
-		int valueOccurrence = 0;
+	template<typename T>
+	void sortDescending(T list[], int listSize) {
 		for(int i = 0; i < listSize; i++) {
-			if(list[i] == value)
-				valueOccurrence++;
+			T currentMin = list[i];
+			int currentMinIndex = i;
+			
+			for(int j = i + 1; j < listSize; j++) {
+				if(currentMin > list[j]) {
+					currentMin = list[j];
+					currentMinIndex = j;
+				}
+			}
+			
+			if(currentMinIndex != i) {
+				list[currentMinIndex] = list[i];
+				list[i] = currentMin;
+			}
 		}
-		return valueOccurrence;
 	}
 
 //YOUR_CODE_ABOVE
 //Do not modify anything on or below the line above this
-
 
 int main()
 {
