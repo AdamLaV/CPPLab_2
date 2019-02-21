@@ -7,24 +7,19 @@ using namespace std;
 //YOUR_CODE_BELOW
 
 	template<typename T>
-	void sortDescending(T list[], int listSize) {
-		for(int i = 0; i < listSize; i++) {
-			T currentMin = list[i];
-			int currentMinIndex = i;
-			
-			for(int j = i + 1; j < listSize; j++) {
-				if(currentMin > list[j]) {
-					currentMin = list[j];
-					currentMinIndex = j;
-				}
-			}
-			
-			if(currentMinIndex != i) {
-				list[currentMinIndex] = list[i];
-				list[i] = currentMin;
+	void sortDescending(T list[], int listSize) {		
+  	int i = 0, j = 0;
+  	T currentMin; 
+	for (i = 0; i < listSize; ++i) {
+		for (j = i + 1; j < listSize; ++j) {
+			if (list[i] < list[j]) {
+				currentMin = list[i];
+				list[i] = list[j];
+				list[j] = currentMin;
 			}
 		}
-	}
+	 }
+}
 
 //YOUR_CODE_ABOVE
 //Do not modify anything on or below the line above this
