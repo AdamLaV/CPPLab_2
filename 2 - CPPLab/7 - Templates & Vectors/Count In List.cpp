@@ -6,7 +6,7 @@ using namespace std;
 //Do not modify anything on or above the line below this
 //YOUR_CODE_BELOW
 
-    	template<typename T>
+    template<typename T>
 	int countInList(T list[], int listSize, T value) {
 		int valueOccurrence = 0;
 		for(int i = 0; i < listSize; i++) {
