@@ -6,15 +6,15 @@ using namespace std;
 //Do not modify anything on or above the line below this
 //YOUR_CODE_BELOW
 
-   template<typename T>
-	int countInList(T list[], int listSize, T value) {
-		int valueOccurrence = 0;
-		for(int i = 0; i < listSize; i++) {
-			if(list[i] == value)
-				valueOccurrence++;
-		}
-		return valueOccurrence;
-	}
+template < typename T >
+int countInList(T list[], int listSize, T value) {
+    int valueOccurrence = 0;
+    for (int i = 0; i < listSize; i++) {
+      if (list[i] == value)
+        valueOccurrence++;
+    }
+    return valueOccurrence;
+}
 
 //YOUR_CODE_ABOVE
 //Do not modify anything on or below the line above this
