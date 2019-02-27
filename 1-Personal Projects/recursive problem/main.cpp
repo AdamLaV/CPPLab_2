@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 // Return the factorial for a specified index
