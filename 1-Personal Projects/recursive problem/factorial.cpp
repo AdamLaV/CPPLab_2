@@ -17,6 +17,7 @@ int main()
     return 0;
 }
 
+
 // Return the factorial for a specifies index
 int factorial(int n) {
     if(n == 0) // base case
