@@ -16,7 +16,7 @@
 
 #### Week 7 - Templates & Vectors  👉 [Code](https://github.com/simplycs/CPPLab_2/tree/master/2%20-%20CPPLab/7%20-%20Templates%20%26%20Vectors)
 
-#### Week 8 - Recursive 👉 [Code](https://github.com/simplycs/CPPLab_2/tree/master/2%20-%20CPPLab/8%20-%20Recursive)
+#### Week 8 - Recursion 👉 [Code](https://github.com/simplycs/CPPLab_2/tree/master/2%20-%20CPPLab/8%20-%20Recursive)
 
 #### Week 9 - coming soon...
 
