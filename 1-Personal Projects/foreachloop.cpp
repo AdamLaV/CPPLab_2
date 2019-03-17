@@ -14,3 +14,4 @@ char myArr[4] = {'N', 'S', 'E', 'W'};
                 dir = WEST;
         }
     }
+
