@@ -1,4 +1,5 @@
 // Working with an array using the for each loop   
+
 char myArr[4] = {'N', 'S', 'E', 'W'};
 
     for (int ele : myArr) {
