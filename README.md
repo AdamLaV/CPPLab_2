@@ -18,7 +18,7 @@
 
 #### Week 8 - Recursion 👉 [Code](https://github.com/simplycs/CPPLab_2/tree/master/2%20-%20CPPLab/8%20-%20Recursive)
 
-#### Week 9 - [Code](https://github.com/simplycs/CPPLab_2/tree/master/2%20-%20CPPLab/9%20-%20LinkedList)
+#### Week 9 - List & LinkedList 👉 [Code](https://github.com/simplycs/CPPLab_2/tree/master/2%20-%20CPPLab/9%20-%20LinkedList)
 
 #### Week 10 - coming soon...
 
