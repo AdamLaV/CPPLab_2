@@ -22,9 +22,3 @@
 
 #### Week 10 - Maps & Sets 👉 [Code](https://github.com/simplycs/CPPLab_2/tree/master/2%20-%20CPPLab/Maps%20%26%20Sets)
 
-## download and contribution  :octocat: 🎊
-
-
->Absolutely! Feel free to fork, download or share my code.
->If you have a better solution(s) or would like to collaborate,
->don't hesitate to reach me.
