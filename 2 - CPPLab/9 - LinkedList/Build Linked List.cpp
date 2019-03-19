@@ -12,7 +12,6 @@ public:
     Node(T value) : element(value) {}
 };
 
-
 using namespace std;
 
 int main()
