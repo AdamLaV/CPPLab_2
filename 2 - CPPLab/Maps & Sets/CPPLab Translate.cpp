@@ -69,7 +69,6 @@ translations["bell"]="la campana";
     cout << translations["computer"] << " ";
     cout << translations["virus"] << endl;
 
-
     cout << translations["all"] << " ";
     cout << translations["the"] << " ";
     cout << translations["memory"] << " ";
